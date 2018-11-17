@@ -1,7 +1,7 @@
 # yt-mirr
 YouTube mirror (sort of)
 
-This is an old app I wrote in 2007. It used the YouTube api of it's time, which I believe has bee deprecated.
+This is an old app I wrote in 2007 using good ol' ASP.NET webforms. This was before ASP.NET MVC was invented. It used the YouTube api of it's time, which I believe has bee deprecated.
 
 The app would allow you to browse different categories and tags and watch YouTube videos using their player.
 
